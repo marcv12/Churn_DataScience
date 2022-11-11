@@ -1,0 +1,6 @@
+"0","#Start by loading file"
+"0","dat <- read.csv(file = ""purchases.csv"", "
+"0","                     header=T,"
+"0","                     sep="","","
+"0","                     dec=""."","
+"0","                     stringsAsFactors = T)"

@@ -1,0 +1,5 @@
+"0","#Euclidian distance"
+"0","# EUCLIDEAN"
+"0",""
+"0","# WSS(elbow method)"
+"0","fviz_nbclust(datCl, FUNcluster = hcut, diss = dissEu, method = ""wss"", k.max = 20)"

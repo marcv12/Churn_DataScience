@@ -1,0 +1,6 @@
+"0","#also finds 2 clusters as optimal"
+"0",""
+"0","#so once again we get same as euclidian and choose 2 clusters"
+"0","hierPe <- hcut(x = dissPe, isdiss = T, k = 2, hc_method = ""ward.D2"") "
+"0",""
+"0","#we'll visualize it later when comparing k means to hierarchichal clustering"

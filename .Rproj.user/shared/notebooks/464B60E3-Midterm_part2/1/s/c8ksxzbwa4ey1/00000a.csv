@@ -1,0 +1,5 @@
+"0","#2-3-4 seem a good K on euclidian"
+"0",""
+"0","# Silouhette"
+"0","fviz_nbclust(datCl, FUNcluster = hcut, diss = dissEu, method = ""silhouette"", "
+"0","             k.max = 20)"

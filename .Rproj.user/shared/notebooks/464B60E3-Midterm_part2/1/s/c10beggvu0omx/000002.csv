@@ -1,0 +1,6 @@
+"0","# Let's comapre the 2 groups HCut Pearson and the 2 groups kmeans"
+"0","mclust::adjustedRandIndex(km2$cluster==1, hierPe$cluster)"
+"1","[1]"
+"1"," 0.5944345"
+"1","
+"

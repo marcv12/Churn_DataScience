@@ -1,0 +1,4 @@
+"0",""
+"0","# Pearson correlation"
+"0","dissPe <- get_dist(datCl, method = ""pearson"")"
+"0","fviz_dist(dissPe)  # Harder"

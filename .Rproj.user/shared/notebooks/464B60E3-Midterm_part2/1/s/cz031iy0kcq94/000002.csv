@@ -1,0 +1,14 @@
+"0","# install.packages(""tidyverse"")"
+"0","# install.packages(""factoextra"")"
+"0","# install.packages(""GGally"")"
+"0","# install.packages(""mclust"")"
+"0","require(tidyverse)"
+"0","require(factoextra)"
+"2","Loading required package: factoextra
+"
+"2","Warning:"
+"2"," package ‘factoextra’ was built under R version 4.1.3
+"
+"2","Welcome! Want to learn more? See two factoextra-related books at https://goo.gl/ve3WBa
+"
+"0","require(GGally)"

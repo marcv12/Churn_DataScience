@@ -1,0 +1,6 @@
+"0","#also finds 2 clusters as optimal"
+"0",""
+"0",""
+"0","#We take 2 as optimal number of clusters k"
+"0","hierEu <- hcut(x = dissEu, isdiss = T, k = 2, hc_method = ""ward.D2"") "
+"0","#visualization will come later on"

@@ -1,0 +1,5 @@
+"0","# What are the possible distances we can choose from (among others)?"
+"0",""
+"0","# Euclidean distance"
+"0","dissEu <- get_dist(datCl, method = ""euclidean"")"
+"0","fviz_dist(dissEu) # 3 groups?"

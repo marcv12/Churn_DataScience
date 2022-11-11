@@ -1,0 +1,3 @@
+"0","# PEARSON"
+"0","#elbow method(WSS)"
+"0","fviz_nbclust(datCl, FUNcluster = hcut, diss = dissPe, method = ""wss"", k.max = 20)"

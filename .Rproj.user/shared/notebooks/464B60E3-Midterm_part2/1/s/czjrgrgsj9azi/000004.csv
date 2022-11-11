@@ -1,0 +1,8 @@
+"0","p1 <- fviz_cluster(object=km2, datCl) + theme_bw() +"
+"0","  labs(subtitle = ""Kmeans"")"
+"0","p2 <- fviz_cluster(object=hierPe, datCl) + theme_bw() +"
+"0","  labs(subtitle = ""Hierarchical clustering(Pearson)"")"
+"0","p3 <- fviz_cluster(object=hierEu, datCl) + theme_bw() +"
+"0","  labs(subtitle = ""Hierarchical clustering(Euclidian)"")"
+"0",""
+"0","gridExtra::grid.arrange(p1, p2, p3, ncol=3) "
